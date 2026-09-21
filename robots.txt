@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gemini-code-assist-dev.github.io/sitemap.xml
