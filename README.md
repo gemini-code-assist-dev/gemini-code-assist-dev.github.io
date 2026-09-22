@@ -21,4 +21,5 @@ This is a mainstream assistant aimed squarely at people already inside Google's 
 *This is an independent page with no affiliation to Google, and all product names and trademarks mentioned belong to their respective owners.*
 
 
+
 _Last reviewed: 2026-09-22_
